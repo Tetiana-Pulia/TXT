@@ -1,0 +1,4 @@
+Name,Surname: Pulia Tetiana,
+Age: 25,
+Future_salary:500,
+Pets_number: 0.
