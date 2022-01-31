@@ -1,0 +1,5 @@
+Favourite food: Pizza,
+Favourite film: "Knock on wood",
+Favourite series: "Big Bang Theory",
+Favourite_season: Spring,
+Country-to-visit: Norway.
